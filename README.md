@@ -7,7 +7,8 @@
 </h1>
 
 <p align="center">
-  A problem solver and data enthusiast specializing in recommendation systems and data analysis. I thrive on turning complex data into clear, impactful solutions using Python, R, SQL, and JavaScript. My work includes building an NLP-powered anime recommender and co-authoring research on CI-Autorec-based systems.
+  <b>Data Scientist & AI Researcher @ UTD</b><br>
+  I build human-centric AI. From analyzing neural signals in the <b>Neuroscience Lab</b> to building computer vision productivity tools like <b>Lock In Labs</b> (HackMars Winner). My work spans NLP, Reinforcement Learning, and Biological Data Analysis using Python, C++, and PyTorch.
 </p>
 
 <div align="center">
@@ -17,13 +18,15 @@
   <a href="https://www.linkedin.com/in/datatompham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="INSERT_YOUR_WEBSITE_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  </a>
 </div>
-
 
 <hr>
 
 <h3 align="center">Languages & Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,git,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,postgres,react,nodejs,git,js" />
 </p>
