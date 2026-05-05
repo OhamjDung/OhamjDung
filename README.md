@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OhamjDung/OhamjDung/blob/main/unnamed%20(1).png?raw=true" alt="Haikyuu Banner">
+  <img src="https://github.com/OhamjDung/OhamjDung/blob/main/unnamed%20(1).png?raw=true" alt="Haikyuu Banner" width="600">
 </p>
 
 <h1 align="center">
