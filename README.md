@@ -1,14 +1,17 @@
-<p align="center">
-  <img src="https://github.com/OhamjDung/OhamjDung/blob/main/unnamed%20(1).png?raw=true" alt="Haikyuu Banner" width="600">
-</p>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Tom+Pham!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Tom+Pham" />
 </h1>
 
 <p align="center">
-  <b>Data Science @ UT Dallas · AI/ML Engineer · Hackathon Builder</b><br><br>
-  I build end-to-end AI systems — from <b>LLM pipelines with Knowledge Graphs</b> (Rolemap) and <b>GraphRAG medical diagnostics</b> (EarlyAxxess) to <b>NLP topic modeling</b> on real Reddit data and <b>Deep RL agents</b> that hit 20:1 K/D ratios. Currently researching in the <b>UTD Neuroscience Lab</b> and working as a <b>Marketing Data Analyst</b> at the Bass School of Arts, Humanities & Technology.
+  Data Science student at UT Dallas. I build AI projects, mostly at hackathons.
+</p>
+
+<p align="center">
+  Some things I've made: Rolemap, an LLM pipeline built around a knowledge graph. EarlyAxxess, a GraphRAG tool for medical diagnostics. A topic model on Reddit data. And a deep RL agent that got to a 20:1 K/D ratio.
+</p>
+
+<p align="center">
+  Right now I do research in the UTD Neuroscience Lab and work as a marketing data analyst at the Bass School of Arts, Humanities & Technology.
 </p>
 
 <div align="center">
@@ -25,7 +28,7 @@
 
 <hr>
 
-<h3 align="center">Languages & Tools 🛠️</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,html,css" />
@@ -39,14 +42,15 @@
 
 <hr>
 
-<h3 align="center">Awards & Achievements 🏆</h3>
+<h3 align="center">Hackathon wins</h3>
 
 <div align="center">
 
-| 🥇 Award | Event | Date |
+| Award | Event | Date |
 |---|---|---|
-| 🏆 Best Overall Project — Dattack | ACM Education | April 2026 |
-| 🎯 Productivity Track Winner — Lock In Labs | HackMars 1.0 | Spring 2025 |
-| 🎨 Figma Track Winner | HackAI @ UT Dallas | Spring 2025 |
+| 1st Place, Capital One Track | Hack UTD | Fall 2026 |
+| Best Overall Project (Dattack) | ACM Education | April 2026 |
+| Productivity Track Winner (Lock In Labs) | HackMars 1.0 | Spring 2025 |
+| Figma Track Winner | HackAI @ UT Dallas | Spring 2025 |
 
 </div>
